@@ -5,6 +5,5 @@ public class Main {
 //	add second line
 //	fix #2
 //	check for #2
-//	Äü¸µÅ©¸¦ Ãß°¡ÇÏ¿´½À´Ï´Ù.
-//	Äü¸µÅ© Ãß°¡Ãß°¡2
+//	í…ŒìŠ¤íŠ¸
 }
